@@ -6,3 +6,4 @@ console.log("Hello")
         return result;
     }
     var value= add(10, 20)
+     var value1= add(10, 20)
