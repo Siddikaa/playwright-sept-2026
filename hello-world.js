@@ -5,5 +5,6 @@ console.log("Hello")
         var result= n1*n2
         return result;
     }
+    console.log(name)
     var value= multi(10, 20)
      var value1= multi(10, 20)
