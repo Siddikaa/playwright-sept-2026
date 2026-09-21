@@ -7,3 +7,10 @@ console.log("Hello")
     }
     var value= multi(10, 20)
      var value1= multi(10, 20)
+    function multi(n1, n2, n3){
+        var result= n1*n2*n3
+        return result;
+    }
+    console.log("The value is: "+multi(10, 20, 30))
+    var value= multi(10, 20, 30)
+     var value1= multi(10, 20, 30)
