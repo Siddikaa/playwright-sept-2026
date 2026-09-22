@@ -1,10 +1,10 @@
 console.log("Hello")
     let name= "Aaysha"
     var n =10
-    function multi(n1, n2, n3){
-        var result= n1*n2*n3
+    function div(n1, n2){
+        var result= n1/n2
         return result;
     }
-    console.log("The value is: "+multi(10, 20, 30))
-    var value= multi(10, 20, 30)
-     var value1= multi(10, 20, 30)
+    console.log(name)
+    var value= div(10, 20)
+     var value1= div(10, 20)
