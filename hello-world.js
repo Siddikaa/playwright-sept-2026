@@ -5,6 +5,6 @@ console.log("Hello")
         var result= n1-n2
         return result;
     }
-    console.log(name)
+    console.log("Name:", name)
     var value= Sub(10, 20)
      var value1= Sub(10, 20)
