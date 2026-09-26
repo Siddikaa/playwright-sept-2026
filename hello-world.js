@@ -5,6 +5,6 @@ console.log("Hello")
         var result= n1-n2
         return result;
     }
-    console.log("Value is = :", name)
-    var value= Sub(100, 220)
-     var value1= Sub(10, 20)
+    console.log("The value is: ", name)
+    var value= multi(10, 20, 30)
+     var value1= multi(10, 20, 30)
